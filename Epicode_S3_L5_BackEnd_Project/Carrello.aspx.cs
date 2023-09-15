@@ -32,7 +32,16 @@ namespace Epicode_S3_L5_BackEnd_Project
 
         protected void EliminaProdotto_Click(object sender, EventArgs e)
         {
-            //ho provato di tutto ma non ci sono riuscito, forse con un pochino di tempo in più ci sarei riuscito
+            Button button = (Button)sender;
+            int productIdToRemove;
+
+            if (int.TryParse(button.CommandArgument, out productIdToRemove))
+            {
+                // Credo che ID viene preso ma poi non riesco a toglierlo dal carrello
+                Response.Write("Id del prodotto da rimuovere: " + productIdToRemove);
+            }
         }
+
+
     }
 }

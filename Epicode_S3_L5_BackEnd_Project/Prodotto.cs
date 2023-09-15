@@ -48,6 +48,33 @@ namespace Epicode_S3_L5_BackEnd_Project
                     Prezzo = 16.59m,
                     ImgUrl = "https://m.media-amazon.com/images/I/51aBi4Ly5JL._AC_SL1500_.jpg"
                 },
+                new Prodotto
+                {
+                    IdProdotto = 4,
+                    Nome = "Nothing Phone (2)",
+                    Descrizione = "Smartphone 256 GB + 12 GB Ram, Glyph Interface, Nothing OS 2.0, Doppia fotocamera 50 MP, OIS, Display LTPO OLED 6,7\", Batteria 4700 mAh, IP54, cellulare Android, Bianco",
+                    DescrizioneDettagliata = "Nothing OS 2.0: una nuova identità visiva. Personalizza le etichette delle app, il design della griglia, le dimensioni dei widget.. Nuovi layout di cartelle. Crea widget per impostazioni rapide o risparmia tempo aggiungendo direttamente i tuoi widget più iimportanti alla schermata di blocco. Nuova Glyph Interface: Assegna diverse sequenze di luci e suoni per ogni tipo di contatto e notific.Utilizza le luci per tenere traccia dei progressi o crea suonerie personalizzate con Glyph Composer.\r\nFotocamera: Abbiamo aggiornato il software interno della fotocamera per foto e video più accurati. Nuovo sensore anteriore più grande da 32 MP per ritratti perfetti. Doppia fotocamera posteriore principale da 50 MP + ultra-wide 50 MP per catturare la vita reale con effetti di regolazione intelligenti come HDR avanzato, Motion Capture 2.0 e Night Mode e Super Res Zoom 2x per dettagli eccellenti. Video in 4k a 60 fps sulla fotocamera posteriore principale e 1080P a 60 fps su quella anteriore.\r\nDisplay: display LTPO OLED da 6,7\" con una luminosità massima di 1600 nit e Gorilla Glass 5 (fronte e retro). Grazie a LTPO, Phone (2) è in grado di adattare intuitivamente la frequenza di aggiornamento a 120 Hz per preservare l'energia quando non utilizzi il telefono. Display eccezionale che non compromette la durata della batteria.\r\nBatteria: Capacità di 4.700 mAh. Si ricarica in soli 55 minuti. Dura 22,5 ore. Compatibile con ricarica wireless Qi da 15 W. Phone (2) funge anche da caricabatteria wireless da 5 W per alimentare accessori come Ear (2) anche in movimento. Chipset: con il chipset Snapdragon 8+ Gen 1, Phone (2) migliora dell'80% le prestazioni rispetto al precedente. Puoi ora godere di velocità rapida, migliore gestione interna del calore e funzionalità avanzate della fotocamera.\r\nSostenibilità: telaio intermedio in alluminio riciclato al 100%, stagno riciclato al 100% su 9 schede di circuito, foglio di rame riciclato al 100% sulla scheda di circuito principale e oltre il 90% di acciaio riciclato su tutte le 28 parti di stampaggio in acciaio. Inoltre, l'80% delle parti in plastica proviene da fonti sostenibili. Il packaging di Phone (2) è interamente privo di plastica e il 60% della carta inclusa proviene da fonti riciclate.",
+                    Prezzo = 729.00m,
+                    ImgUrl = "https://m.media-amazon.com/images/I/61ByXr1ZRJL._AC_SL1500_.jpg"
+                },
+                new Prodotto
+                {
+                    IdProdotto = 5,
+                    Nome = "De'Longhi Magnifica S ECAM22.110.B",
+                    Descrizione = "Macchina da caffè Automatica, Chicchi macinati al momento, 4 Bevande One Touch, Montalatte classico, Spegnimento Programmabile, Nero",
+                    DescrizioneDettagliata = "CAFFÈ PERSONALIZZATO: è possibile scegliere tra un caffè corto o lungo, o un aroma forte o leggero; MAGNIFICA S può essere utilizzata con i chicchi o con la polvere di caffè\r\nSISTEMA LATTE MANUALE: con il montalatte puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita\r\nMACINA CAFFÈ: macina i chicchi di caffè al momento per darti il piacere di un caffè come al bar; macinacaffè regolabile fino a 13 livelli di macinatura\r\nSEMPLICE DA USARE: la manopola permette di selezionare l’intensità dell'aroma, con i tasti scegli uno o due caffè, lungo o corto e attivi il cappuccinatore\r\nPULIZIA FACILE: La griglia della vaschetta raccogli gocce può essere lavata in lavastoviglie per offrire una pulizia ottimale",
+                    Prezzo = 16.59m,
+                    ImgUrl = "https://m.media-amazon.com/images/I/61Gm5OKA6rL._AC_SL1500_.jpg"
+                },
+                new Prodotto
+                {
+                    IdProdotto = 6,
+                    Nome = "UGREEN Nexode Mini 30W Caricatore USB C",
+                    Descrizione = "Caricatore USB C GaN, Caricabatterie USB C Compatibile Dji Mini 3 Pro, Google Pixel 7 Pro/6A, iPhone 15 Plus/ 15 Pro Max/14/13/12/11, iPad Pro/Air/Mini, Galaxy S23/S23+/S22/S21",
+                    DescrizioneDettagliata = "[Caricatore USB C da 30W] Il caricabatterie USB C supporta la potenza massima di 30W, retrocompatibile con 25W e 20W. Supporta più protocolli di ricarica rapida come PD 3.0, PPS, QC 4+/ 4.0/ 3.0 e SCP, FCP, AFC per essere compatibile con smartphone, tablet, ecc.\r\n[Ricarica Ultra Rapida] L'adattatore di alimentazione USB C da 30W può caricare il tuo iPhone 15 dallo 0% al 60% in soli 30 minuti, caricare il tuo Galaxy S21 Ultra dallo 0% al 100% in soli 60 minuti.\r\n[Tecnologia Avanzata GaN II] Il caricabatterie da 30W ottimizza la tua esperienza di ricarica con la tecnologia GaN come risparmio energetico, dissipazione del calore, dimensioni compatte, ecc. È più piccolo e compatto mentre ti dà ancora più potenza.\r\n[Compatibilità Universale] Il caricabatterie USB C da 30W è compatibile con Dji Mini 3 Pro, iPhone 14/14 Pro/ 14 Pro Max/ SE 2022/ 13/ 13 Pro/ 13 Pro Max/ 12/ 11/ XR/ XS/ 8/ 8+, MacBook Air M1/ M2, iPad Pro/ Air/ mini, Galaxy S23/ S23+/ S22/ S22+/ S22 Ultra/ S21 Ultra/ S21/ S20 FE/ S20+/ S20/ Note 20, Galaxy Tab S7/ S7+/ S6/ S5e, Pixel 7 Pro/7/6a, Xiaomi Redmi Note 11/10, ecc.",
+                    Prezzo = 16.59m,
+                    ImgUrl = "https://m.media-amazon.com/images/I/51aBi4Ly5JL._AC_SL1500_.jpg"
+                },
             };
 
             return prodotti;

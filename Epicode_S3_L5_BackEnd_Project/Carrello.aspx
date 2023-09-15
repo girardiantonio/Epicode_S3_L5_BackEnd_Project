@@ -10,7 +10,8 @@
                         <asp:Label ID="NomeProdotto" class="card-title" runat="server" Text='<%# Eval("Nome") %>'></asp:Label>
                         <asp:Label ID="Prezzo" runat="server" Text='<%# "$" + Eval("Prezzo") %>'></asp:Label>
                     </div>
-                    <asp:Button ID="EliminaProdotto" runat="server" Text="Elimina" class="btn btn-warning" OnClick="EliminaProdotto_Click" CommandArgument='<%# Eval("IdProdotto") %>' />
+                    <asp:Button ID="EliminaProdotto" runat="server" Text="Elimina" CssClass="btn btn-warning"
+                        OnClick="EliminaProdotto_Click" CommandArgument='<%# Eval("IdProdotto") %>' />
                 </div>
             </ItemTemplate>
         </asp:Repeater>

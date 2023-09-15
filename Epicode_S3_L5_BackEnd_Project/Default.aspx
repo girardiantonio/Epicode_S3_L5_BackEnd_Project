@@ -6,8 +6,8 @@
             <asp:Repeater ID="productRepeater" runat="server">
                 <ItemTemplate>
                     <div class="col-md-4 mb-4">
-                        <div class="card h-100">
-                            <img src='<%# Eval("ImgUrl") %>' class="card-img-top h-50" alt='<%# Eval("Nome") %>'>
+                        <div class="card h-100 d-flex align-items-center">
+                            <img src='<%# Eval("ImgUrl") %>' class="card-img-top p-2" style="height: 20em; width:auto" alt='<%# Eval("Nome") %>'>
                             <div class="card-body">
                                 <h5 class="card-title"><%# Eval("Nome") %></h5>
                                 <p class="card-text"><%# Eval("Descrizione") %></p>

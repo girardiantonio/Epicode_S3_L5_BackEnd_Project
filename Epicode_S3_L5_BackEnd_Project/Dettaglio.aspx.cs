@@ -38,10 +38,14 @@ namespace Epicode_S3_L5_BackEnd_Project
                 if (prodotto != null)
                 {
                     Carrello carrello = Session["Carrello"] as Carrello ?? new Carrello();
+
+                    prodotto.IdProdotto = productId;
+
                     carrello.AggiungiProdotto(prodotto);
                     Session["Carrello"] = carrello;
                 }
             }
         }
+
     }
 }
