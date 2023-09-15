@@ -63,17 +63,17 @@ namespace Epicode_S3_L5_BackEnd_Project
                     Nome = "De'Longhi Magnifica S ECAM22.110.B",
                     Descrizione = "Macchina da caffè Automatica, Chicchi macinati al momento, 4 Bevande One Touch, Montalatte classico, Spegnimento Programmabile, Nero",
                     DescrizioneDettagliata = "CAFFÈ PERSONALIZZATO: è possibile scegliere tra un caffè corto o lungo, o un aroma forte o leggero; MAGNIFICA S può essere utilizzata con i chicchi o con la polvere di caffè\r\nSISTEMA LATTE MANUALE: con il montalatte puoi miscelare manualmente vapore e latte per creare la densità ottimale della schiuma per la tua bevanda al latte preferita\r\nMACINA CAFFÈ: macina i chicchi di caffè al momento per darti il piacere di un caffè come al bar; macinacaffè regolabile fino a 13 livelli di macinatura\r\nSEMPLICE DA USARE: la manopola permette di selezionare l’intensità dell'aroma, con i tasti scegli uno o due caffè, lungo o corto e attivi il cappuccinatore\r\nPULIZIA FACILE: La griglia della vaschetta raccogli gocce può essere lavata in lavastoviglie per offrire una pulizia ottimale",
-                    Prezzo = 16.59m,
+                    Prezzo = 234.99m,
                     ImgUrl = "https://m.media-amazon.com/images/I/61Gm5OKA6rL._AC_SL1500_.jpg"
                 },
                 new Prodotto
                 {
                     IdProdotto = 6,
-                    Nome = "UGREEN Nexode Mini 30W Caricatore USB C",
-                    Descrizione = "Caricatore USB C GaN, Caricabatterie USB C Compatibile Dji Mini 3 Pro, Google Pixel 7 Pro/6A, iPhone 15 Plus/ 15 Pro Max/14/13/12/11, iPad Pro/Air/Mini, Galaxy S23/S23+/S22/S21",
-                    DescrizioneDettagliata = "[Caricatore USB C da 30W] Il caricabatterie USB C supporta la potenza massima di 30W, retrocompatibile con 25W e 20W. Supporta più protocolli di ricarica rapida come PD 3.0, PPS, QC 4+/ 4.0/ 3.0 e SCP, FCP, AFC per essere compatibile con smartphone, tablet, ecc.\r\n[Ricarica Ultra Rapida] L'adattatore di alimentazione USB C da 30W può caricare il tuo iPhone 15 dallo 0% al 60% in soli 30 minuti, caricare il tuo Galaxy S21 Ultra dallo 0% al 100% in soli 60 minuti.\r\n[Tecnologia Avanzata GaN II] Il caricabatterie da 30W ottimizza la tua esperienza di ricarica con la tecnologia GaN come risparmio energetico, dissipazione del calore, dimensioni compatte, ecc. È più piccolo e compatto mentre ti dà ancora più potenza.\r\n[Compatibilità Universale] Il caricabatterie USB C da 30W è compatibile con Dji Mini 3 Pro, iPhone 14/14 Pro/ 14 Pro Max/ SE 2022/ 13/ 13 Pro/ 13 Pro Max/ 12/ 11/ XR/ XS/ 8/ 8+, MacBook Air M1/ M2, iPad Pro/ Air/ mini, Galaxy S23/ S23+/ S22/ S22+/ S22 Ultra/ S21 Ultra/ S21/ S20 FE/ S20+/ S20/ Note 20, Galaxy Tab S7/ S7+/ S6/ S5e, Pixel 7 Pro/7/6a, Xiaomi Redmi Note 11/10, ecc.",
+                    Nome = "Toshiba MW2-MM20P(BK)",
+                    Descrizione = "Forni a microonde standard, 20 Litri, 800 W, 5 livelli di potenza con pratica funzione di scongelamento, illuminazione a LED interno/Nero",
+                    DescrizioneDettagliata = "Design elegante e compatto Ideale per diversi tipi di cucina.\r\n5 livelli di potenza Per una maggiore flessibilità in cucina, dal caldo alla cottura di liquidi.\r\nIlluminazione a LED per interniIlluminazione a LED a risparmio energetico e di lunga durata per una buona visibilità durante il programma.\r\nFunzioni pratiche Scongelamento dopo peso/tempo, orologio da cucina in 35 minuti, piedini antiscivolo, stabile piatto girevole.\r\nDati tecniciPotenza del microonde 800 W, dimensioni esterne (larghezza x profondità x altezza): 440 x 357 x 259 mm, dimensioni interne (larghezza x profondità x altezza): 306 x 304 x 206 mm.",
                     Prezzo = 16.59m,
-                    ImgUrl = "https://m.media-amazon.com/images/I/51aBi4Ly5JL._AC_SL1500_.jpg"
+                    ImgUrl = "https://m.media-amazon.com/images/I/61chHJb2tkL._AC_SL1500_.jpg"
                 },
             };
 
